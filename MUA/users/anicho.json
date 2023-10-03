@@ -1,0 +1,86 @@
+{
+	"first_name": ["Edison"],
+	"last_name": ["Floyd"],
+	"professional": "Full Stack Developer|Python|ML|Web Scraping",
+	"overview": "Hello. This is experienced full stack developer in building web application. As a senior developer, I have build, managed and lead web application dev team, developing eCommerce, social applications, Front-end and Smart-contract of Blockchain applications like NFT and DEX. So I am well-versed in React, TypeScript, Node.js, Unity and even Solidity. I have good passion to search for way to improve my skillset and trying to improve and expand my skillsets as time goes by. Regards!",
+	"country": "Germany",
+	"hourRate": "35",
+	"workXP": [
+		{
+			"company": "RUBY Exchange",
+			"role": "Senior Full-Stack Developer",
+			"description": [
+				"Provided technical direction and system architecture for 40+ individual initiatives.",
+				"Communicated with line of business and managed the overall status and health of 20+ applications.",
+				"Collaborated with external programmers to coordinate delivery of 6 new software applications.",
+				"Wrote 200+ unit tests to ensure 100% of code within SDLC was without bugs."
+			],
+			"start": "2021.7",
+			"end": "2023.7"
+		},
+		{
+			"company": "Bidify Org",
+			"role": "Full-Stack Engineer",
+			"description": [
+				"Learned organization’s overall strategies, business operates, and what drives success in the business.",
+				"Collaborated with 3 engineering and design teams to integrate external APIs into web pages and applications.",
+				"Evaluatedandimprovedexistingdatasystemsundermentor supervision."
+			],
+			"start": "2018.9",
+			"end": "2021.6"
+		},
+		{
+			"company": "XION Global",
+			"role": "Frontend Developer",
+			"description": [
+				"Created responsive websites from scratch.",
+				"Designed and maintained front end for web and mobile applications by using AngularJS/TypeScript.",
+				"Wrote unit tests to improve code predictability and documentation."
+			],
+			"start": "2015.2",
+			"end": "2018.8"
+		}
+	],
+	"education": [
+		{
+			"university": "Bard College Berlin",
+			"degree": "Bachelor of Computer Science (BCompSc)",
+			"field": "Computer Science",
+			"start": "2011",
+			"end": "2015"
+		}
+	],
+	"languages": [],
+	"skills": [
+        "TensorFlow",
+        "Web Scraping",
+        "React",
+        "Vue.js",
+        "Next.js",
+        "R",
+        "Django",
+        "TypeScript",
+        "Data Visualization",
+        "Machine Learning",
+        "Tailwind CSS",
+        "Laravel",
+        "Python",
+        "Web Development"
+	],
+	"services": [
+        "Blockchain, NFT & Cryptocurrency",
+		"Web Development",
+        "Web & Mobile Design",
+        "Ecommerce Development",
+        "Desktop Application Development",
+		"Database Management & Administration",
+		"Data Mining & Management",
+		"Lead Generation & Telemarketing"
+	],
+	"street": "Sandweg 38",
+	"zipcode": "39923",
+	"city": "Frankfurt am Main",
+	"location": "Germany",
+	"phone":"713097268",
+	"avatar": ["1.jpg","2.jpg"]
+}
